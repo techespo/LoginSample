@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ABC</string>
+    <string name="login">Log-in</string>
+    <string name="signup">Sign-up</string>
+    <string name="password">Passcode</string>
+</resources>
